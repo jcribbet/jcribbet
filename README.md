@@ -19,6 +19,7 @@ I'm a product manager, engineer, architect, and tech enthusiast who loves to bui
 
 - My skills are Microsofft 365, Azure, and web development
 - Ask me about **Product Management** and **Supporting Non-Profits with Tech**
+- I am currently working on various projects related to CMMC 2.0
 
 More about me on [LinkedIn](https://www.linkedin.com/in/jasoncribbet)
 
