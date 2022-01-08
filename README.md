@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a product manager, engineer, architect, and tech enthusiast who loves to build great things.
+
+- My skills are Microsofft 365, Azure, and web development
+- Ask me about **Product Management** and **Supporting Non-Profits with Tech**
+
+More about me on [LinkedIn](https://www.linkedin.com/in/jasoncribbet)
+
+
