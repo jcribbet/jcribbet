@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a product manager, engineer, architect, and tech enthusiast who loves to build great things.
+I'm a product manager and tech enthusiast at Microsoft who loves to build great things.
 
-- My skills are Microsofft 365, Azure, and web development
-- Ask me about **Product Management** and **Supporting Non-Profits with Tech**
-
-More about me on [LinkedIn](https://www.linkedin.com/in/jasoncribbet)
-
-
+- 🔭 I’m currently working on Identity Management solutions using MS Entra ID
+- 🌱 I’m currently studying for my MBA from Auburn University 🦅
+- 👯 I’m looking to collaborate on Security and Compliance in Microsoft 365 and Azure
+- 💬 Ask me about **Product Management** and **Supporting Non-Profits with Tech**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jasoncribbet) | [Twitter](https://twitter.com/JasonCribbet)
